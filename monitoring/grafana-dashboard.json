@@ -1,0 +1,9 @@
+{
+  "title": "ReleaseFlow Dashboard",
+  "panels": [
+    {
+      "type": "graph",
+      "title": "up metric"
+    }
+  ]
+}
